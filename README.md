@@ -132,4 +132,4 @@ print(men_stepped_on_the_moon)
 <img width="347" height="207" alt="image" src="https://github.com/user-attachments/assets/9dbd292a-5736-4618-b270-d9bcaf652fbe" />
 
 ## Result
-Successfully wrote a Pyth
+Successfully wrote a Python code
